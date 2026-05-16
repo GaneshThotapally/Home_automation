@@ -1,7 +1,7 @@
 <h1 align="center">🏠 Smart Home Automation using ESP8266 & Hand Gesture Control</h1>
 
 <p align="center">
-IoT Based Smart Home Automation System using ESP8266, IR Remote, DHT11 Sensor, LCD Display, and AI Hand Gesture Recognition through Laptop Webcam.
+A complete IoT-based Smart Home Automation System built using ESP8266 NodeMCU, relays, IR remote control, DHT11 sensor, and Sinric Pro cloud platform. The project enables users to control home appliances remotely through a mobile application, IR remote, Gesture control and manual switches while also monitoring room temperature and humidity in real time.
 </p>
 
 ---
@@ -139,4 +139,4 @@ python mamatha.py
 
 ## 🎥 Project Demo
 
-<video src="demo.mp4" controls width="700"></video>
+https://github.com/user-attachments/assets/e3b5fd78-a9ba-48bd-843e-51c556482eb3
