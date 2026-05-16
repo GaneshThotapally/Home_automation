@@ -134,3 +134,9 @@ python mamatha.py
 - Temperature Display
 - Humidity Display
 - Relay ON/OFF Status
+
+---
+
+## 🎥 Project Demo
+
+<video src="demo.mp4" controls width="700"></video>
